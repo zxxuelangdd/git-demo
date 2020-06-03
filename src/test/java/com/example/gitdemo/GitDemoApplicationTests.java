@@ -14,9 +14,9 @@ class GitDemoApplicationTests {
     }
     @Test
     void contextLoads2() {
-        System.out.println("master");
-        System.out.println("master");
-        System.out.println("master");
+        System.out.println("test1");
+        System.out.println("test1");
+        System.out.println("test1");
     }
 
 }
