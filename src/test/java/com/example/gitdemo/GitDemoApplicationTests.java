@@ -7,7 +7,16 @@ import org.springframework.boot.test.context.SpringBootTest;
 class GitDemoApplicationTests {
 
     @Test
-    void contextLoads() {
+    void contextLoads1() {
+        System.out.println("master");
+        System.out.println("master");
+        System.out.println("master");
+    }
+    @Test
+    void contextLoads2() {
+        System.out.println("master");
+        System.out.println("master");
+        System.out.println("master");
     }
 
 }
