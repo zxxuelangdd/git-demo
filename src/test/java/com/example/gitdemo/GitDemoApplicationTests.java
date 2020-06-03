@@ -8,8 +8,8 @@ class GitDemoApplicationTests {
 
     @Test
     void contextLoads1() {
-        System.out.println("test1");
-        System.out.println("test1");
+        System.out.println("test2");
+        System.out.println("test2");
         System.out.println("master");
     }
     @Test
